@@ -12,7 +12,7 @@ want to get closer to [~~high salary~~](https://insights.stackoverflow.com/surve
 ## [Sequence Processing (`->>` `reduce` `apply`) (2023.09.26)](#list)
 
 - Practice to deal sequences with `->>` `reduce` `apply`
-- Run by *Clojure CLI version 1.11.1.1200* in [Replit](https://replit.com/){:target="_blank"}
+- Run by *Clojure CLI version 1.11.1.1200* in [Replit](https://replit.com/)
 - Codes and Output
   <details>
     <summary>Codes : sequence-practice.clj</summary>
