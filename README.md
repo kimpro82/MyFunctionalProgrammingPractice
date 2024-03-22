@@ -1,6 +1,6 @@
 # My Functional Programming Practice
 
-  There exists a gray area of multi-paradigm languages that partially support functional programming syntax. Despite the difficulty of clear distinction, this repository stores practice code for languages that are relatively certainly classified as functional programming languages.
+  There exists a gray area of multi-paradigm languages that partially support functional programming syntax. Despite the difficulty of clear distinction, this repository stores practice code for languages that are **relatively certainly classified as functional programming languages.**
 
 
 ### \<List>
