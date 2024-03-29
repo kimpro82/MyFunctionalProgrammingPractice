@@ -1,11 +1,11 @@
 # My Functional Programming Practice
 
-  There exists a gray area of multi-paradigm languages that partially support functional programming syntax. Despite the difficulty of clear distinction, this repository stores practice code for languages that are **relatively certainly classified as functional programming languages**.
+&nbsp;&nbsp;There exists a gray area of multi-paradigm languages that partially support functional programming syntax. Despite the difficulty of clear distinction, this repository stores practice code for languages that are **relatively certainly classified as functional programming languages**.
 
 
 ### \<List>
 
-- [My Scala Practice](#my-scala-practice)
+- [My **Scala** Practice](#my-scala-practice)
 - [My **Clojure** Practice](#my-clojure-practice)
 
 
