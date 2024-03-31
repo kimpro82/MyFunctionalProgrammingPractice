@@ -12,6 +12,9 @@ The learned person is Scala!
 
 - Generates the Fibonacci sequence up to the specified number of terms
 - Run by *Scala code runner version 2.13.10* in [Replit](https://replit.com/)
+  ```scala
+  scala FibonacciSequence.scala
+  ```
 - Code and Output
   <details>
     <summary>Code : FibonacciSequence.scala</summary>
