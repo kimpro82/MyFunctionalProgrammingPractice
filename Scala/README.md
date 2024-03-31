@@ -35,7 +35,7 @@ The learned person is Scala!
       // Call the helper function to generate the Fibonacci sequence and set initial values
       if (n <= 0) List()
       else if (n == 1) List(1)
-      else generateFibonacciHelper(n - 3, 1, 1, List(1, 1))
+      else generateFibonacciHelper(n - 2, 1, 1, List(1, 1))
     }
 
     /**
@@ -53,6 +53,6 @@ The learned person is Scala!
     <summary>Output</summary>
 
   ```scala
-  1 1 2 3 5 8 13 21 34
+  1 1 2 3 5 8 13 21 34 55
   ```
   </details>

@@ -20,7 +20,7 @@ object FibonacciSequence {
     // Call the helper function to generate the Fibonacci sequence and set initial values
     if (n <= 0) List()
     else if (n == 1) List(1)
-    else generateFibonacciHelper(n - 3, 1, 1, List(1, 1))
+    else generateFibonacciHelper(n - 2, 1, 1, List(1, 1))
   }
 
   /**
