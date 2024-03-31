@@ -17,33 +17,34 @@ I love Microsoft
     <summary>Code : FibonacciSequence.fs</summary>
 
   ```fs
-  // Calculates the Fibonacci sequence up to a specified number of terms and prints them.
-  //
-  // Parameters:
-  //   n : int - The number of Fibonacci terms to generate.
-  let rec printFibonacciSequence (n: int) =
-    // Helper function to generate Fibonacci sequence recursively
-    let rec fibHelper (count: int) (current: int) (next: int) =
-      if count <= 0 then () // Base case: if count is 0 or negative, do nothing
-      else
-        // Print the current Fibonacci number
-        printf "%d " current
-        // Calculate the next Fibonacci number
-        let newNext = current + next
-        // Recursively call fibHelper with updated count and current values
-        fibHelper (count - 1) next newNext
-
-    // Start generating the sequence recursively from the third term
-    fibHelper n 1 1
+  /// Calculates the Fibonacci sequence up to a specified number of terms and returns them as a string.
+  /// 
+  /// Parameters:
+  ///     n : int - The number of Fibonacci terms to generate.
+  /// Returns:
+  ///     string - The string representation of the Fibonacci sequence up to the nth term.
+  let rec fibonacciSequenceString (n: int) =
+      // Helper function to generate Fibonacci sequence recursively
+      let rec fibHelper (count: int) (current: int) (next: int) (acc: string) =
+          if count <= 0 then acc // Base case: if count is 0 or negative, return the accumulator string
+          else
+              // Calculate the next Fibonacci number
+              let newNext = current + next
+              // Recursively call fibHelper with updated count, current values, and accumulator
+              fibHelper (count - 1) next newNext (sprintf "%s%d " acc current)
+      
+      // Start generating the sequence recursively from the third term
+      fibHelper n 1 1 ""
 
   // Test the function by printing the first 10 Fibonacci numbers
-  printFibonacciSequence 10
+  let fibonacci10String = fibonacciSequenceString 10
+  printfn "First 10 Fibonacci numbers: [%s]" fibonacci10String
   ```
   </details>
   <details open="">
     <summary>Output</summary>
 
   ```fs
-  1 1 2 3 5 8 13 21 34 55
+  [1; 1; 2; 3; 5; 8; 13; 21; 34; 55]
   ```
   </details>
