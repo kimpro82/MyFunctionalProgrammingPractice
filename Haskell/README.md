@@ -1,6 +1,20 @@
 # [My Haskell Practice](../README.md#my-haskell-practice)
 
-The elders' functional programming language
+&nbsp;&nbsp;The elders' functional programming language
+
+
+### Note
+
+&nbsp;&nbsp;Compile and run on *Glasgow Haskell Compiler*(*GHC*) *version 9.4.8* in [Replit](https://replit.com/), unless otherwise specified
+
+- Compile
+  ```hs
+  ghc FibonacciSequence.hs
+  ```
+- Run
+  ```hs
+  ./FibonacciSequence
+  ```
 
 
 ### \<List>
@@ -11,15 +25,6 @@ The elders' functional programming language
 ## [Fibonacci Sequence (2024.04.01)](#list)
 
 - Generate the Fibonacci sequence up to the specified number of terms
-- Compile and run on *Glasgow Haskell Compiler*(*GHC*) *version 9.4.8* in [Replit](https://replit.com/)
-  - Compile
-    ```hs
-    ghc FibonacciSequence.hs
-    ```
-  - Run
-    ```hs
-    ./FibonacciSequence
-    ```
 - Code and Output
   <details>
     <summary>Code : FibonacciSequence.hs</summary>
