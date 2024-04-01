@@ -3,7 +3,7 @@
 &nbsp;&nbsp;The elders' functional programming language
 
 
-### Note
+### \<Note>
 
 &nbsp;&nbsp;Compile and run on *Glasgow Haskell Compiler*(*GHC*) *version 9.4.8* in [Replit](https://replit.com/), unless otherwise specified
 
