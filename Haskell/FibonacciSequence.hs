@@ -1,6 +1,7 @@
 -- Fibonacci Sequence
 -- 2024.04.01
 
+
 -- | Calculates the nth Fibonacci number using recursion.
 fibonacci :: Int -> Int
 fibonacci n
