@@ -11,7 +11,7 @@ The elders' functional programming language
 ## [Fibonacci Sequence (2024.04.01)](#list)
 
 - Generate the Fibonacci sequence up to the specified number of terms
-- Compile and run on *Glasgow Haskell Compiler*(*GHC*) Ver. 9.4.8 in [Replit](https://replit.com/)
+- Compile and run on *Glasgow Haskell Compiler*(*GHC*) *version 9.4.8* in [Replit](https://replit.com/)
   - Compile
     ```hs
     ghc FibonacciSequence.hs
