@@ -7,6 +7,7 @@
 
 - [My **Clojure** Practice](#my-clojure-practice)
 - [My **F#** Practice](#my-f-practice)
+- [My Elixir Practice](#my-elixir-practice)
 - [My **Haskell** Practice](#my-haskell-practice)
 - [My **Scala** Practice](#my-scala-practice)
 
@@ -20,6 +21,11 @@
 ## [My F# Practice](#list)
 
 - [Fibonacci Sequence (2024.03.30)](/FSharp/README.md#fibonacci-sequence-20240330)
+
+
+## [My Elixir Practice](#list)
+
+- [Fibonacci Sequence (2024.11.19)](/Elixir/README.md#fibonacci-sequence-20241119)
 
 
 ## [My Haskell Practice](#list)
