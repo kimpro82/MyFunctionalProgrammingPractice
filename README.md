@@ -7,7 +7,7 @@
 
 - [My **Clojure** Practice](#my-clojure-practice)
 - [My **F#** Practice](#my-f-practice)
-- [My Elixir Practice](#my-elixir-practice)
+- [My **Elixir** Practice](#my-elixir-practice)
 - [My **Haskell** Practice](#my-haskell-practice)
 - [My **Scala** Practice](#my-scala-practice)
 
