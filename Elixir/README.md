@@ -1,6 +1,6 @@
 # [My Elixir Practice](../README.md#my-elixir-practice)
 
-&nbsp;&nbsp;A bro of Erlang
+["Elixir Saves Pinterest $2 Million a Year In Server Costs", Michael Lubas, 2023-08-28](https://paraxial.io/blog/elixir-savings)
 
 
 ### References
