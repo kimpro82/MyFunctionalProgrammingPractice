@@ -56,7 +56,7 @@ Uncommon People like it
     (dotimes (i n)
       (format t "~D " (fib-tail-recursive (1+ i)))))
   ```
-  ```elixir
+  ```lisp
   ;; Example execution
   (print-fibonacci-numbers 10)
   ```
@@ -64,7 +64,7 @@ Uncommon People like it
   <details open="">
     <summary>Output</summary>
 
-  ```elixir
+  ```lisp
   Fibonacci sequence up to the 10th term
   Regular recursive method : 1 1 2 3 5 8 13 21 34 55 
   Tail recursive method    : 1 1 2 3 5 8 13 21 34 55 
