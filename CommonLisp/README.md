@@ -24,7 +24,7 @@ Uncommon People like it
 
 - Generate the Fibonacci sequence using both regular recursive and tail-recursive methods
 - Common Lisp features a variety of functions with similar purposes, such as `if` and `cond`, `loop` and `dotimes`.
-- While it may look similar to Clojure at first glance, Clojure is a *Lisp-1* while Common Lisp is a *Lisp-2*, making them somewhat different.
+- While it may look similar to [Clojure](/Clojure/) at first glance, Clojure is a *Lisp-1* while Common Lisp is a *Lisp-2*, making them somewhat different.
 - Code and Output
   <details>
     <summary>Code : FibonacciSequence.lisp</summary>
