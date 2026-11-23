@@ -1,5 +1,7 @@
 # [My Lean Practice](../README.md)
 
+I was inspired by a post [Lean verification of the Riemann Hypothesis (2026.11.21, Lean community blog)](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) and decided to give Lean theorem proving a try—with a much less ambitious theorem, of course.
+
 
 ### References
 
