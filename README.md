@@ -10,6 +10,7 @@
 - [My **F#** Practice](#my-f-practice)
 - [My **Elixir** Practice](#my-elixir-practice)
 - [My **Haskell** Practice](#my-haskell-practice)
+- [My **Lean** Practice](#my-lean-practice)
 - [My **OCaml** Practice](#my-ocaml-practice)
 - [My **Racket** Practice](#my-racket-practice)
 - [My **Scala** Practice](#my-scala-practice)
@@ -40,6 +41,11 @@
 ## [My Haskell Practice](#list)
 
 - [Fibonacci Sequence (2024.04.01)](/Haskell/README.md#fibonacci-sequence-20240401)
+
+
+## [My Lean Practice](#list)
+
+- [Fibonacci Sequence (2026.11.23)](/Lean/README.md#fibonacci-sequence-20261123)
 
 
 ## [My OCaml Practice](#list)
