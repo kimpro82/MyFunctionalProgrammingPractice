@@ -3,7 +3,7 @@
 I was inspired by a post [Lean verification of the Riemann Hypothesis (2026.11.21, Lean community blog)](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) and decided to give Lean theorem proving a try—with a much less ambitious theorem, of course.
 
 
-### References
+### \<References>
 
 - https://lean-lang.org/
 - https://lean-lang.org/documentation/
@@ -13,7 +13,11 @@ I was inspired by a post [Lean verification of the Riemann Hypothesis (2026.11.2
 ### \<Note>
 
 - Requires Lean 4.36.0
-- From this directory, run `./run.sh FibonacciSequence.lean` to compile and execute the program
+- From this directory, run any Lean file with:
+  ```bash
+  ./run.sh <LeanFile.lean>
+  ```
+- `run.sh` uses `lean --run`; to execute a file as a program, define a `main` function in it.
 
 
 ### \<List>
