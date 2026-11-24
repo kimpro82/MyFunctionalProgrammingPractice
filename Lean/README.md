@@ -34,13 +34,6 @@ I was inspired by a post [Lean verification of the Riemann Hypothesis (2026.11.2
     <summary>Code : FibonacciSequence.lean</summary>
 
   ```lean
-  /-!
-  # Fibonacci sequences / 2026.11.23
-
-  Compare direct and tail-recursive Fibonacci implementations, and generate their
-  values over an inclusive range of indices.
-  -/
-
   /-- Compute the `n`th Fibonacci number by the direct recursive definition. -/
   def fibRec : Nat → Nat
     | 0 => 0
