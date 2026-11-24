@@ -13,6 +13,11 @@ I was inspired by a post [Lean verification of the Riemann Hypothesis (2026.11.2
 ### \<Note>
 
 - Requires Lean 4.36.0
+- Install elan and the required Lean toolchain with:
+  ```bash
+  ./install_elan.sh
+  ```
+  This requires `curl` and an internet connection.
 - From this directory, run any Lean file with:
   ```bash
   ./run.sh <LeanFile.lean>
